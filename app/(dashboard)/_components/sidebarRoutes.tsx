@@ -2,7 +2,7 @@
 
 import { Compass, Layout } from "lucide-react";
 
-import { SidebarItem } from "./sidebar-item";
+import { SidebarItem } from "./sidebarItem";
 
 const guestRoutes = [
   {
